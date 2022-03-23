@@ -2,20 +2,26 @@
 <html lang="en">
 
 <head>
+
   <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
-  <meta content="" name="description">
-  <meta content="" name="author">
-  <title>GMF Aero Asia General Affairs Application</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Our Team</title>
   <link href="./images/tablogo.png" rel="shortcut icon">
+
 
   <link href="bs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
+
   <link href="css/styles.css" rel="stylesheet">
-  <script src="/bs/jquery/jquery.min.js"></script>
+
 </head>
 
 <body>
+
+  <!-- Navigation -->
   <!-- Navigation -->
   <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top">
     <div class="container">
@@ -60,85 +66,56 @@
     </div>
   </nav>
   <!--End Navigation-->
-  <div class="carousel slide" data-ride="carousel" id="carouselIndicators">
-    <ol class="carousel-indicators"></ol>
-    <div class="carousel-inner" role="listbox">
-
-      <div class="carousel-item active" style="background-image: url('./images/slide1.png')">
-        <div class="carousel-caption d-none d-md-block" style="color:black">
-          <h3>PT Garuda Maintenance Facility Aero Asia General Affairs</h3>
-          <p>Sekarang lebih mudah untuk berkomunikasi dengan staff General Affairs GMF Aero Asia</p>
-        </div>
-      </div>
-      <div class="carousel-item" style="background-image: url('./images/slide2.png')">
-        <div class="carousel-caption d-none d-md-block" style="color:white">
-          <h3>Dapatkan Support untuk kebutuhan pekerjaan anda</h3>
-          <p>Ajukan permintaan Support seperti Kendaraan, Event, dan Imigrasi.</p>
-        </div>
-      </div>
-	  <div class="carousel-item" style="background-image: url('./images/slide3.png')">
-        <div class="carousel-caption d-none d-md-block" style="color:black">
-          <h3></h3>
-          <p></p>
-        </div>
+  <div class="row" align='center'>
+    <div class="col col-12">
+      <div class="jumbotron">
+        <h1>Our Team</h1>
+        <br>
+        <p>
+          As the Dev Team at the GMF Aero Asia General Affairs Department, we are dedicated to deliver the best ever quality
+          software
+          products to make it easy for Employee to get the best ever service that is convient when getting their
+          need.
+        </p>
+        <p>
+          Here is the team behind this site:
+        </p>
       </div>
     </div>
-    <!--Slider Controls-->
-    <a class="carousel-control-prev" data-slide="prev" href="#carouselIndicators" role="button"><span class="sr-only">Previous</span></a>
-    <a class="carousel-control-next" data-slide="next" href="#carouselIndicators" role="button"><span class="sr-only">Next</span></a>
   </div>
-  <br>
-  <br>
-  <br>
-  <!-- Page Content -->
+
   <div class="container">
-    <div class="row">
-      <div align="center" class="col-lg-6">
-        <h2 class="chd">GMF Aero Asia General Affairs Department</h2><br>
-        <p>Sebagai Department yang menangani urusan general kami berusaha semaksimal mungkin untuk membantu anda apabila ada kendala dalam melakukan pekerjaan anda 
-		dan menyediakan alat yang dibutuhkan.</p>
-        <p>Dalam upaya memberikan dukungan kepada departement anda kami melakukan pembaruan untuk meningkatkan kualitas dan produktivitas di lingkungan kerja GMF Aero Asia</p>
-      </div>
-      <div align="center" class="col-lg-6"><img alt="GMF AeroAsia General Affairs" class="img-fluid rounded" src="./images/beranda.png"></div>
-    </div><!-- /.row -->
-    <br>
-    <br>
-    <br>
 
-    <h1 class="chd" id="three">Langkah mudah untuk menggunakan website GMF Aero Asia General Affairs</h1><br>
-    <br>
     <div class="row">
-      <div align="center" class="col-lg-4 mb-4">
-        <div class="img img-thumbnail rounded align-content-center">
-          <img alt="Submit" src="./images/2.png">
-          <h3 class="chd">Kunjungi website General Affairs GMF</h3>
+      <div class="col col-lg-4">
+        <div class="img img-thumbnail">
+          <img src="./images/Juni Purwo Widadi.png" alt="Juni Purwo Widadi">
+          <p><strong>Juni Purwo Widadi</strong></p>
+          <p style="color: green;"><i>Project Supervisor</i></p>
+		  <p style="color: green;"><i>Home Affairs Manager at GMF Aero Asia</i></p>
         </div>
       </div>
-      <div align="center" class="col-lg-4 mb-4">
-        <div class="img img-thumbnail rounded align-content-center">
-          <img alt="Submit" src="./images/1.png">
-          <h3 class="chd">Isi Form keperluan support anda</h3>
+      <div class="col col-lg-4">
+        <div class="img img-thumbnail">
+          <img src="./images/Raden Ricky Rachmady.png" alt="Raden Ricky Rachmady">
+          <p><strong>Raden Ricky Rachmady</strong></p>
+          <p style="color: green;"><i>Project Manager</i></p>
+		  <p style="color: green;"><i>Customer Care Team Lead at GMF AeroAsia</i></p>
         </div>
       </div>
-      <div align="center" class="col-lg-4 mb-4">
-        <div class="img img-thumbnail rounded align-content-center">
-          <img alt="Submit" src="./images/3.png">
-          <h3 class="chd">Submit data yang sudah anda isi</h3>
+      <div class="col col-lg-4">
+        <div class="img img-thumbnail">
+          <img src="./images/Ahmad Bisyrul Hafi.png" alt="Ahmad Bisyrul Hafi">
+          <p><strong>Ahmad Bisyrul Hafi</strong></p>
+          <p style="color: green;"><i>Web Developer</i></p>
+		  <p style="color: green;"><i>Programmers Intern At GMF Aero Asia</i></p>
         </div>
       </div>
     </div>
-    <hr>
-    <br>
-    <br>
-    <!--CTA-->
-    <div class="container-fluid">
-      <h4 class="chd">Kirimkan data permintaan Suppoort anda kepada kami.</h4><br>
-      <a class="btn btn-lg btn-secondary btn-block" href="registration.php">Get Started</a>
-    </div><!-- /.container -->
-    <br>
-    <br>
-    <!-- Footer -->
   </div>
+
+  <br>
+  <!-- Footer -->
   <footer class="page-footer font-small bg-dark pt-4">
     <!-- Footer Links -->
     <div class="container-fluid text-center text-md-left">
@@ -157,7 +134,7 @@
 
         <div class="col-md-3 mb-md-0 mb-3">
 
-          <h5 class="text-uppercase foot" style="color:white">Menu</h5>
+          <h5 class="text-uppercase foot">Menu</h5>
           <ul class="list-unstyled">
             <li>
               <a href="index.html">Home</a>
@@ -180,9 +157,12 @@
       © 2022 Copyright: <a href="#">GMF Aero Asia General Affairs Department</a>
     </div>
   </footer>
+  <!-- Footer -->
 
+  <!-- Bootstrap core JavaScript -->
   <script src="bs/jquery/jquery.min.js"></script>
   <script src="bs/bootstrap/js/bootstrap.bundle.min.js"></script>
+
 </body>
 
 </html>
